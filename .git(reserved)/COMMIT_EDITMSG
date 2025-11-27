@@ -1,0 +1,7 @@
+feat: integrate Electron with Vite for desktop application
+
+- Added Electron support to the client by creating main.cjs and preload.cjs files.
+- Introduced an HTML file for the Electron app interface.
+- Updated package.json to include Electron and related dependencies.
+- Implemented a development server for Vite that works with Electron.
+- Added scripts for starting the Electron app and type checking.
