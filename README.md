@@ -22,11 +22,22 @@ uv sync
 cd backend main.py
 ```
 
-### Frontend Setup
+### Frontend Admin Setup
 
 ```bash
 # Navigate to frontend directory
-cd frontend
+cd admin
+# Install dependencies
+npm install
+# Start the application
+npm run electron
+```
+
+### Frontend Client Setup
+
+```bash
+# Navigate to frontend directory
+cd client
 # Install dependencies
 npm install
 # Start the application
