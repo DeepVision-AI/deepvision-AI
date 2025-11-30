@@ -3,9 +3,15 @@
 # DeepVision Project
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/release/python-380/)
+[![Python Version](https://img.shields.io/badge/python-3.13%2B-blue.svg)](https://www.python.org/downloads/release/python-3130/)
+[![React Version](https://img.shields.io/badge/react-18.3.1-blue.svg)](https://react.dev/)
+[![Flask Version](https://img.shields.io/badge/flask-3.1.2-blue.svg)](https://flask.palletsprojects.com/en/3.0.x/)
+[![Electron Version](https://img.shields.io/badge/electron-39.2.1-blue.svg)](https://www.electronjs.org/)
+[![Supabase JS Version](https://img.shields.io/badge/supabase_js-2.57.4-blue.svg)](https://supabase.com/)
+[![Transformers Version](https://img.shields.io/badge/transformers-4.57.1-blue.svg)](https://huggingface.co/docs/transformers)
 
 A product for face recognition and intrusion detection.
+
 
 ## Quick Start
 
